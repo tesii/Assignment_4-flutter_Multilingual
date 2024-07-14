@@ -9,10 +9,15 @@ Kabatesi Patience
 
 
 Under the Drawer, Edit Profile picture where you have two options:
-  a. Select from the Gallery
-  b. Take a Picture
 
-  a. ![image](https://github.com/user-attachments/assets/4d2cb2ff-5286-4683-b2c9-2d24aa8fdbf0)
+  a. Select from the Gallery
+  ---------------------------
+
+    a. ![image](https://github.com/user-attachments/assets/4d2cb2ff-5286-4683-b2c9-2d24aa8fdbf0)
+    
+  b. Take a Picture
+  ------------------
+  
   
   b. ![image](https://github.com/user-attachments/assets/1e10ab0e-e532-45ee-8eaf-f8b52bc0ff35)
 
