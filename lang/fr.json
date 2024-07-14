@@ -1,0 +1,20 @@
+{
+  "drawer": {
+    "profilePicture": "Photo de profil",
+    "selectFromGallery": "Sélectionner dans la galerie",
+    "takePicture": "Prendre une photo",
+    "english": "Anglais",
+    "french": "Français",
+    "aboutUs": "À propos de nous",
+    "services": "Services",
+    "contacts": "Contacts"
+  },
+  "tabs": {
+    "aboutUs": "À propos de nous",
+    "services": "Services",
+    "contacts": "Contacts"
+  },
+  "appBar": {
+    "title": "Application de calculatrice"
+  }
+}

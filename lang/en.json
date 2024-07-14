@@ -1,0 +1,20 @@
+{
+  "drawer": {
+    "profilePicture": "Profile Picture",
+    "selectFromGallery": "Select from Gallery",
+    "takePicture": "Take a Picture",
+    "english": "English",
+    "french": "Français",
+    "aboutUs": "About Us",
+    "services": "Services",
+    "contacts": "Contacts"
+  },
+  "tabs": {
+    "aboutUs": "About Us",
+    "services": "Services",
+    "contacts": "Contacts"
+  },
+  "appBar": {
+    "title": "Calculator App"
+  }
+}
