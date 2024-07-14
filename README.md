@@ -5,6 +5,7 @@ Kabatesi Patience
  Add local mobile phone Contact list to your API (eg. see WhatApp)
 ------------------------------------------------------------------
 
+
 ![image](https://github.com/user-attachments/assets/effabcca-37df-4586-bf8c-ebba71b94f82)
 
 
@@ -12,6 +13,7 @@ Under the Drawer, Edit Profile picture where you have two options:
 
   a. Select from the Gallery
   ---------------------------
+  
 
     a. ![image](https://github.com/user-attachments/assets/4d2cb2ff-5286-4683-b2c9-2d24aa8fdbf0)
     
